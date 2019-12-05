@@ -4,7 +4,7 @@
 package main
 
 import (
-	"go.mozilla.org/sops/v3/decrypt"
+	"go.mozilla.org/sops/v3"
 	"log"
 	"path/filepath"
 	"sigs.k8s.io/kustomize/v3/pkg/ifc"
